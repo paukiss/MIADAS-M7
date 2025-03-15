@@ -1,0 +1,101 @@
+property_id,listing_date,property_type,neighborhood,price,bedrooms,bathrooms,area,year_built,ownership_duration,condition,last_renovation,energy_rating
+P1000,10/7/2021,Duplex,Eastside,USD 374187,5,3,397m²,,17yr,New,20201215,C
+P1001,12/14/2023,Villa,Southside,785069,1,1.5,465,,16 years,Poor,03.03.2002,D
+P1002,03.08.2020,House,Westside,0.40M USD,5,2.5,186m²,,17 y,FAIR,7/6/2018,A
+P1003,2/21/2025,Condo,Heights,0.90M USD,2,1,7.81 acres,1964,17 years,Renovated,10/20/2023,
+P1004,29-Sep-23,House,Central,0.13M USD,,2,402m²,1959,91,Good,1/13/2014,A
+P1005,8/8/2021,Condo,Southside,"$500,339 ",5,1,3100.0319999999997 sqft,2004,71 mo,GOOD,04.07.2013,F
+P1006,20.10.2023,House,Heights,921.796K,,1.5,54 square meters,,39,FAIR,13-Jun-07,F
+P1007,13.11.2022,Apartment,Uptown,"$1,153,166 ",2,1,94,,16 years,poor,13.10.2018,B
+P1008,2/21/2024,House,Eastside,"$762,209 ",5,2,78 sqm,,18 years,Fair,7/10/2016,B
+P1009,3-Feb-25,Condo,Park,"$229,076 ",2,2,431 sqm,,14 years,Good,,B
+P1010,20240616,House,Northend,"$593,761 ",1,1,1.41 acres,1959,21 mo,NEW,7-Jul-14,C
+P1011,20221107,Duplex,Gardens,"$1,493,454 ",2,3,86,2008,29,To be renovated,06.03.2019,C
+P1012,12-Aug-20,Apartment,Gardens,683716 USD,5,2,304 sqm,,3 y,FAIR,3/30/2010,
+P1013,3/16/2024,Villa,Eastside,USD 403077,,3,454m²,2013,76 months,Renovated,14-Dec-18,C
+P1014,31-Oct-22,Villa,Central,0.1 million,4,2,3928.8599999999997 sqft,,3m,FAIR,,E
+P1015,27-Jul-24,House,Central,USD 1081951,1,2,12.15 acres,,18yr,Fixer-upper,8-Feb-10,E
+P1016,5/25/2024,Townhouse,Park,0.55M USD,3,1.5,2.45 acres,1987,9,Renovated,20200701,
+P1017,9/4/2020,House,Gardens,"$1,717,279 ",,1,3961.1519999999996 sqft,,78,poor,20051010,F
+P1018,9/25/2020,Townhouse,Heights,1.23M USD,2,2,914.9399999999999 sqft,2008,13 y,Excellent,,C
+P1019,20220623,Townhouse,Westside,292382,5,1,5242.067999999999 sqft,,96 mo,Good,31-Mar-22,B
+P1020,18-Jan-24,Villa,Lakeside,1682.785K,2,,7.11 acres,,3 years,Poor,01.10.2005,C
+P1021,8/7/2023,Villa,Gardens,1566.494K,2,3,388 square meters,1950,16,To be renovated,24-Oct-02,B
+P1022,24-Jan-20,Duplex,Central,174.613K,,1.5,5.29 acres,1981,9yr,GOOD,31-Mar-12,
+P1023,8/23/2021,House,Park,0.4 million,5,2,389 square meters,,96m,Fair,,E
+P1024,16-Oct-24,House,Lakeside,USD 975968,3,2,3670.524 sqft,2021,5 years,good,07.08.2004,
+P1025,4/3/2020,Townhouse,Eastside,"$105,182 ",,2,229 square meters,,25,New,,
+P1026,1/11/2020,House,Park,0.3 million,5,1,111m²,,26,Renovated,2/4/2007,F
+P1027,10/27/2021,Duplex,Eastside,1.1 million,,2.5,155 sqm,,55,Fair,5/17/2005,E
+P1028,22-Dec-22,House,Lakeside,0.62M USD,,2.5,136,1952,13yr,good,20090107,B
+P1029,7/10/2022,Villa,Gardens,173158,2,2,8.03 acres,,25 y,Renovated,24-Apr-10,B
+P1030,20230806,Villa,Gardens,USD 1633304,3,1,183 sqm,2017,2 years,Excellent,4-Dec-17,
+P1031,5-Jul-20,Townhouse,Park,"$1,125,334 ",5,2,11.49 acres,2017,21 years,Excellent,6-May-09,B
+P1032,23-Nov-20,Townhouse,Eastside,USD 1273850,5,3,2787.8759999999997 sqft,1990,29 y,GOOD,,B
+P1033,20230823,Apartment,Heights,"$297,417 ",,2,424 sqm,,107,good,4/19/2009,A
+P1034,10/28/2024,Condo,Downtown,"$552,654 ",4,1.5,1.43 acres,,16yr,Good,,A
+P1035,13-Jun-22,Villa,Downtown,"$1,258,083 ",3,1,52m²,2008,112,Excellent,21-Nov-06,F
+P1036,12-May-23,Townhouse,Riverside,2.0 million,3,2.5,449m²,,38m,Poor,20010612,F
+P1037,12-Dec-20,Townhouse,Southside,"$133,737 ",3,2.5,312m²,,62,Good,12/6/2017,E
+P1038,18.06.2023,House,Uptown,1921934,,1,401 square meters,,87,Excellent,20160621,B
+P1039,20201023,Apartment,Central,416540,2,2,4.35 acres,,27yr,Excellent,5-Nov-09,C
+P1040,24-May-22,Townhouse,Riverside,"$857,906 ",2,2,73 square meters,,5,good,,F
+P1041,12.04.2024,Duplex,Heights,1657833,2,3,58 square meters,,55m,good,17.11.2015,A
+P1042,02.02.2022,Duplex,Uptown,327167 USD,1,2,158 sqm,1999,9 years,poor,,
+P1043,2-Mar-22,Duplex,Lakeside,858.334K,3,2.5,440m²,1988,97 mo,NEW,11.12.2023,
+P1044,20221102,Apartment,Park,1221876 USD,1,1,10.03 acres,1954,26 y,GOOD,10/6/2018,B
+P1045,9-Oct-21,Apartment,Park,1749144 USD,,,331m²,,4 years,Renovated,31-Jan-03,D
+P1046,5-Nov-22,House,Central,179.616K,1,2.5,121m²,,89m,Fixer-upper,20220831,A
+P1047,28-Jul-21,Villa,Heights,0.28M USD,1,,420 sqm,,24,good,,
+P1048,20-Feb-23,Townhouse,Heights,1785490,,1,123m²,,9yr,Fair,20150521,A
+P1049,3/7/2024,Townhouse,Westside,1311397 USD,4,2,379m²,,24 y,To be renovated,,B
+P1050,31-Mar-22,Townhouse,Downtown,USD 1281385,1,1.5,131 square meters,1977,13yr,Fair,,E
+P1051,20211117,Townhouse,Heights,0.27M USD,1,3,358 square meters,,3 y,Good,3/8/2013,E
+P1052,25.06.2024,Villa,Northend,812.105K,4,2.5,342 square meters,,101 months,New,,C
+P1053,12-Nov-21,Apartment,Central,1228.79K,5,1,11.61 acres,,9 y,To be renovated,9/19/2017,F
+P1054,6/24/2022,Duplex,Downtown,1.96M USD,2,2,151,1962,16,poor,21-May-17,C
+P1055,1-Jan-24,House,Westside,904.559K,,2.5,383 sqm,,4,Good,,
+P1056,13.01.2020,Condo,Northend,1.3 million,3,3,101 square meters,2019,5yr,Fixer-upper,25-Aug-22,B
+P1057,7/25/2020,Condo,Eastside,1276.415K,3,2.5,5.71 acres,1977,51m,NEW,8-Dec-05,E
+P1058,4/7/2021,Townhouse,Eastside,USD 799310,4,2,82 sqm,1962,12,Good,4/26/2012,E
+P1059,3/2/2023,Townhouse,Eastside,0.77M USD,1,2,382 sqm,2016,2 years,Fair,1/28/2020,E
+P1060,10/11/2021,Townhouse,Eastside,1661.935K,2,,166m²,,107 months,New,,A
+P1061,5-Oct-20,Townhouse,Eastside,293228 USD,2,2,11.31 acres,,18,good,,A
+P1062,10/28/2024,Apartment,Downtown,1.99M USD,5,1.5,429 sqm,2012,19 years,poor,7/12/2023,B
+P1063,20220829,Townhouse,Lakeside,1.51M USD,5,1,265 square meters,,11,GOOD,5-Sep-01,C
+P1064,9/11/2022,Apartment,Uptown,1.29M USD,5,1.5,147 square meters,2010,9yr,Renovated,14.08.2022,B
+P1065,07.05.2024,Duplex,Central,"$282,646 ",2,1.5,3638.232 sqft,1995,3 years,New,,
+P1066,5/17/2021,Townhouse,Downtown,829484 USD,4,,4768.451999999999 sqft,1997,27 months,good,4-Nov-17,D
+P1067,11.11.2021,Townhouse,Lakeside,"$104,669 ",4,2,256 sqm,2020,98,Poor,24.05.2000,E
+P1068,14-Feb-21,House,Heights,"$928,067 ",,3,1.28 acres,,23yr,NEW,20200721,D
+P1069,11-Jun-21,Condo,Heights,"$602,208 ",4,2.5,114m²,2021,28 y,Fair,1/31/2020,D
+P1070,4/21/2024,Condo,Riverside,0.68M USD,3,1,3.36 acres,,110 mo,Excellent,3/1/2008,B
+P1071,5/15/2022,House,Gardens,"$1,335,720 ",,,198m²,,58,NEW,20030103,F
+P1072,11.05.2024,Townhouse,Eastside,254707 USD,,1,3.78 acres,,90,To be renovated,8/29/2016,E
+P1073,17-Jul-22,Villa,Southside,1.9 million,4,2,272 square meters,1976,40m,FAIR,6/13/2000,D
+P1074,23.08.2023,Duplex,Northend,"$117,379 ",4,3,2.32 acres,2021,7 years,Renovated,,E
+P1075,26-Feb-23,Villa,Westside,"$1,856,023 ",3,3,106m²,1954,98 months,Fixer-upper,,F
+P1076,15.04.2023,Condo,Heights,1892.618K,1,2.5,75 sqm,2008,15 mo,New,8/30/2022,D
+P1077,19-May-21,Duplex,Riverside,1.1 million,4,1.5,94,,24 y,good,,F
+P1078,5/12/2024,Villa,Downtown,"$1,402,434 ",2,1.5,4725.396 sqft,,24yr,Renovated,14-Jun-10,E
+P1079,1-Aug-20,House,Northend,1.6 million,3,1,5.24 acres,1992,91 months,Renovated,11.08.2013,A
+P1080,25.12.2023,Condo,Uptown,850009 USD,4,1,1765.2959999999998 sqft,,86 mo,FAIR,1/9/2001,D
+P1081,8/28/2024,House,Gardens,0.2 million,4,2,4682.34 sqft,,38 mo,good,,A
+P1082,11-May-24,Villa,Gardens,"$244,454 ",,2,10.35 acres,,30 years,FAIR,,C
+P1083,29-Dec-24,Villa,Park,382.82K,1,2.5,11.12 acres,2005,7,Renovated,15-Jan-20,F
+P1084,12/21/2020,Condo,Gardens,USD 338476,2,2.5,1291.6799999999998 sqft,,15yr,To be renovated,20100421,E
+P1085,20210309,House,Eastside,USD 436023,4,2.5,380,1982,26 years,good,20020306,F
+P1086,01.12.2022,House,Southside,270.16K,1,,61 sqm,,88 months,GOOD,,A
+P1087,2/9/2022,Duplex,Park,"$1,183,522 ",2,2.5,155m²,,87 months,Fair,8/14/2002,C
+P1088,14.05.2023,Apartment,Downtown,1155.453K,1,1,319 square meters,2010,4 years,Renovated,17.05.2004,B
+P1089,11-Jun-20,Duplex,Park,"$1,540,699 ",5,2,100m²,,8,Fixer-upper,,C
+P1090,7-Aug-20,House,Heights,824062 USD,2,2.5,1.48 acres,1981,83,Excellent,,F
+P1091,6/9/2020,Townhouse,Uptown,1278527 USD,2,,1410.0839999999998 sqft,,42 mo,FAIR,20040211,F
+P1092,2-Dec-23,Condo,Downtown,324.713K,5,1.5,52m²,,13 years,New,,E
+P1093,3/17/2022,Condo,Eastside,1824771,2,,386 sqm,,49,To be renovated,12/2/2003,D
+P1094,24-Apr-23,House,Central,1215082 USD,5,3,85 sqm,1976,27 y,To be renovated,"April 06, 2018",A
+P1095,14-Feb-22,Apartment,Riverside,1.64M USD,4,1,449 sqm,,83 mo,NEW,,D
+P1096,6/26/2023,Condo,Gardens,"$673,492 ",1,,206m²,,39m,FAIR,7-Nov-07,F
+P1097,25-May-24,Apartment,Gardens,"$1,262,936 ",5,3,4.3 acres,,27 months,Renovated,11/18/2011,
+P1098,15-Mar-20,Duplex,Uptown,USD 868727,4,2,283 square meters,,30,poor,,A
+P1099,2-Dec-24,Apartment,Westside,1.89M USD,5,3,174 square meters,1993,26,GOOD,,E
